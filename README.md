@@ -6,6 +6,28 @@ Two splashscreens for KDE featuring popular anime girls.
 
 - Nico Yazawa from 'Love Live School Idol Project'.
 
+
+
+
+
+
+
+
+
+
+
 # Installation
 
-~/.local/share/plasma/look-and-feel
+Copy the folders into  ```~/.local/share/plasma/look-and-feel```
+
+
+
+
+
+
+
+
+
+
+
+Have fun!
