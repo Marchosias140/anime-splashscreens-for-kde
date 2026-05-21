@@ -6,7 +6,7 @@ Two splashscreens for KDE featuring popular anime girls.
 
 - Nico Yazawa from 'Love Live School Idol Project'.
 
-
+- Yamada Ryo from 'Bocchi the Rock!'
 
 
 
