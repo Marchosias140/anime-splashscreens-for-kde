@@ -3,16 +3,20 @@
     "KPlugin": {
         "Authors": [
             {
+                "Email": "",
                 "Name": "Marchosias140"
             }
         ],
-        "Category": "Splashscreens",
-        "Description": "Nico Yazawa for Plasma6",
+        "Category": "",
+        "Description": "Yazawa Nico for Plasma6",
         "Id": "YazawaNico",
         "License": "MIT",
         "Name": "YazawaNico",
-        "Website": "github.com/Marchosias140"
+        "Website": "github.com/marchosias140"
     },
-    "Keywords": "Yazawa;Nico;Love;Live;",
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2"
 }
+
+
 
