@@ -3,16 +3,23 @@
     "KPlugin": {
         "Authors": [
             {
+                "Email": "",
                 "Name": "Marchosias140"
             }
         ],
         "Category": "",
-        "Description": "Dicta Striker for Plasma6",
+        "Description": "Dicta Striker for Plasma 6",
         "Id": "DictaStriker",
         "License": "MIT",
         "Name": "DictaStriker",
-        "Website": "github.com/Marchosias140"
+        "Website": "github.com/marchosias140"
     },
-    "Keywords": "Dicta;Striker;Umamusume;",
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2"
 }
+
+
+
+
+
 
