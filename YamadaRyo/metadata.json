@@ -1,0 +1,36 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "Marchosias140"
+            }
+        ],
+        "Category": "",
+        "Description": "Yamada Ryo for Plasma 6",
+        "Id": "YamadaRyo",
+        "License": "MIT",
+        "Name": "YamadaRyo",
+        "Website": "github.com/marchosias140"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
